@@ -90,3 +90,4 @@ grails-app/conf/RcmAppSetupConfigDeveloper.groovy
 web-app/WEB-INF/atmosphere-meteor-decorators.xml
 
 
+.gradle/
